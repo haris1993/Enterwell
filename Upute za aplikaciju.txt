@@ -1,0 +1,21 @@
+Prilikom pokretanja aplikacije prvo što morate je da se registrirate na aplikaciju kao admin da mozete manipulisati sa projektom. Nakon sto ste to uradili logirajte se pa kad ste logiran kao admin mozete manipulisati sa sistemom. Kada ste prijavljeni na meniu ce vam se prikazati Upravljanje sadrzajem.
+On je padajuci meni na kojem ce vam se javiti nove funkcije Kategorije proizvoda, Proizvod, Faktura, Stavke faktura,Korisnici Porezi Naruzbe,
+U kategorije proizvoda kreirate kategorije mjenjate i brisete.
+U  Proizvod kreirate kategorije mjenjate i brisete.
+U Fakture kreirate kategorije mjenjate i brisete.
+U Stavke faktura kreirate kategorije mjenjate i brisete.
+U Korisnici proizvoda kreirate kategorije mjenjate i brisete.
+U Porezi proizvoda kreirate kategorije mjenjate i brisete.
+U Narudzbe  vec dodane postoje narudbe te mozete vidit koja je prosla a koja ne na sistemu a mozete im vi mjenjati status.
+Nakon sto to popunite na pocetnoj stranici bez obzira jeste li rola admin ili anonimni user mozete da vidite kategorije zajedno sa njenim proizvodima kao i kosaricu na vrhu.
+Kada zelite dodati proizvod u kosaru to radite tako da na tom proizvod kliknete detalje javljavam se novi prozor gdje vam daje da kliknete u kosaru.
+Nakon sto ste odabrali proizvode koje zelite kupiti idete na kosaricu da vam se izradi racun.
+Nakon sto ste dodali mozete vidit koje sve proizvode imate na racunu.
+Klikom na dugme finaliziraj narudzbu javlja vam se nova stranica na kojoj unosite detalje kupca i naravno mozete tu izabrati porez koji ste prethodno unijeli da vam se obracunava na racunu.
+To bilo to na kraju ako imate koji pitanja mozete me kontaktirat a sa projektom vam saljem i bakcup baze podataka , a naravno mozete napravitii bazu preko migracija.
+
+
+
+
+
+

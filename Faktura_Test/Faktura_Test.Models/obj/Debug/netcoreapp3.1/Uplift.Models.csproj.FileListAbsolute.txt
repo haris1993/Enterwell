@@ -1,0 +1,265 @@
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\3.Installing Exstension Part2\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\3.Installing Exstension Part2\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\3.Installing Exstension Part2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\3.Installing Exstension Part2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\3.Installing Exstension Part2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\1.Section2 - Project Creating\5.Organizing code in Tiers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\2.Repository Pattern\7.Push Category To Database\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\3.Add Category  Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\4.Update Category Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\6.Category Datatable\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\8.Create Upsert View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\9.Partial View Buttons\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\10.Upsert Post Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\3.Category - CRUD\11.Delete Category\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\4.Frequency - CRUD\2.Assignment 2\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\1.Add Service to DB\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\5.Service Index View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\6.Service Upsert Get Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\8.Service Upsert View Changes\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\5.Service - CRUD\11.Important Debugging Tips\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\6.Home Page\2.Home View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\7.Details\1.Details Action Method\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\2.Order Header and Details Repository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\5.Cart View Part 1\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\8.Remove Item From Shopping Cart\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\8.Section 9 - Shopping cart and Orders\11.Order Confirmation\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\1.Scaffold Identity\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\2.Add Properties to ASPNetUsers\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\3.Register User View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\OneDrive\Radna površina\ASP.NET Core All in One\9.Section 10 - Admin Registration\6.Add User  Controller\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\2.Order Js\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\3.Order List View\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\ASP.NET Core All in One\10.Section 11 - Order Managment\5.Order Details Action\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache

@@ -1,0 +1,134 @@
+﻿@model Uplift.Models.ViewModels.StavkeViewModel
+
+@{ var title = "Stavke Fakture";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+
+    <div class="row px-2 mx-2 backgroundWhite border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.Stavke.Id != 0)
+        {
+            <input type="hidden" asp-for="Stavke.Id" />title = "Uredi Stavke Fakture";
+        }
+
+        <div class="col-12">
+            <h2 class="text-primary">@title</h2>
+            <br />
+        </div>
+        <div class="col-9">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.Naziv"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Stavke.Naziv" id="txtPrice" class="form-control" />
+                    <span asp-validation-for="Stavke.Naziv" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.Opis"></label>
+                </div>
+                <div class="col-8">
+                    <textarea asp-for="Stavke.Opis" class="form-control" style="height:300px;"></textarea>
+                    <span asp-validation-for="Stavke.Opis" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.KategorijaProizvodId"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Stavke.KategorijaProizvodId, Model.KategorijaProizvod,
+                                            "- Selektuj kategoriju proizvoda -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.Slika_Url"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="files" id="uploadBox" multiple class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.ProizvodId"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Stavke.ProizvodId, Model.Proizvodi,
+                                            "- Selektuj proizvod -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.Cijena"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Stavke.Cijena" id="txtPrice" class="form-control" />
+                    <span asp-validation-for="Stavke.Cijena" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Stavke.FakturaId"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Stavke.FakturaId, Model.Fakture,
+                                            "- Selektuj fakturu -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    @if (Model.Stavke.Id != 0)
+                    {
+                        //Edit button and back to list
+                        <partial name="_EditAndBackToListButton" model="Model.Stavke.Id" /> }
+                    else
+                    {
+                        <div class="row">
+                            <div class="col">
+                                <button type="submit" onclick="return validateInput()" class="btn btn-primary form-control">Krejiraj</button>
+                            </div>
+                            <div class="col">
+                                <a asp-action="Index" class="btn btn-success form-control">Vrati nazad</a>
+                            </div>
+                        </div>}
+                </div>
+            </div>
+        </div>
+        @if (Model.Stavke.Id != 0)
+        {
+            <div class="col-3">
+                <img src="@Model.Stavke.Slika_Url" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
+            </div>}
+    </div>
+
+</form>
+
+@section Scripts{
+    <script src="https://cdn.tiny.cloud/1/n94ifuzvl80pchikopiwgz2esrw8n28dwcywvpejlqrregfp/tinymce/5/tinymce.min.js"></script>
+    <script>
+
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'lists',
+            menubar: 'file edit format'
+        });
+
+        function validateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                swal("Error", "Please Select an Image", "error")
+                return false;
+            }
+            return true;
+        };
+
+        $(document).ready(function () {
+            if (document.getElementById('txtPrice').value == "0") {
+                document.getElementById('txtPrice').value = '';
+            }
+        });
+    </script>
+}

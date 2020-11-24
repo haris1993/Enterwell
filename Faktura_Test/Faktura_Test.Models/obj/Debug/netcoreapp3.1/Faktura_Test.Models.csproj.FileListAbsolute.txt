@@ -1,0 +1,36 @@
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.deps.json
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.deps.json
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csprojAssemblyReference.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfoInputs.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfo.cs
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csproj.CoreCompileInputs.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.deps.json
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.deps.json
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\bin\Debug\netcoreapp3.1\Faktura_Test.Models.pdb
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.dll
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Models\obj\Debug\netcoreapp3.1\Faktura_Test.Models.pdb

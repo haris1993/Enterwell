@@ -1,0 +1,36 @@
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.deps.json
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.deps.json
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csprojAssemblyReference.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfoInputs.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfo.cs
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csproj.CoreCompileInputs.cache
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Projects2020\New folder\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.deps.json
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.deps.json
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\bin\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfoInputs.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.AssemblyInfo.cs
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.dll
+C:\Users\Haris\Desktop\Enterwell\Faktura_Test\Faktura_Test.Utility\obj\Debug\netcoreapp3.1\Faktura_Test.Utility.pdb
